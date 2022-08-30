@@ -23,5 +23,4 @@
 8. I Learn Z-index property.
 9. I also Learn Tailwind-Css for responsive website.
 10. I Learn various size responsive like sm,md,lg,xl,2xl etc.  
-
-11.I am using Tailwind Css creating webpage faster without using .Css extension file.
+11. I am using Tailwind Css creating webpage faster without using .Css extension file.
